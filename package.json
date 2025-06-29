@@ -1,0 +1,16 @@
+{
+  "name": "pragatibackend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "keywords": [
+    "node",
+    "pragati"
+  ],
+  "license": "ISC",
+  "author": "Pragati Ghosh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
